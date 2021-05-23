@@ -1,0 +1,14 @@
+Package: com.rileytestut.Delta.Beta
+Name: Delta
+Version: 1.3rc1
+Architecture: iphoneos-arm
+Description: Emulator made by Riley Testut
+Maintainer: StarSlayerEmulation
+Author: Riley Testut
+Section: Games
+Depends:
+Filename:com.rileytestut.Delta.Betarc1_iphoneos-arm.deb
+Size: 15369920
+MD5sum: dcf644f2c17cf410af6b160800f36e9e
+SHA1:d53fd92a49a2590e5c0b2c08a1bfc0a5a34457b9
+SHA256: 3af8c31b1dd3b485bd393c6569fcfaacf0c7c550e08993ffd56fe92f00506385
