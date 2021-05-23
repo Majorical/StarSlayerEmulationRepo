@@ -1,0 +1,45 @@
+<package>
+	<id>com.rileytestut.Delta.Beta</id>
+	<name>Delta</name>
+	<version>1.3rc1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Emulator made by Riley Testut</shortDescription>
+	<descriptionlist>
+		<description>Supports NES, SNES, N64, GBC, GBA, DS, DSi, Genesis (Beta) games!</description>
+		<description>DS and DSi games require BIOS files unless you use DeSmuME (Legacy) core.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
