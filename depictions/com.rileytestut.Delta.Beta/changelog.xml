@@ -7,6 +7,6 @@
 		<change>Updated DS controller skin with bigger buttons<change>
 		<change>Supports translucent game artwork<change>
 		<change>Fixes crash playing DS games when another app is using microphone<change>
-		<change>Fixes some erroneous sync errors
+		<change>Fixes some erroneous sync errors<change>
 	</changes>
 </changelog>

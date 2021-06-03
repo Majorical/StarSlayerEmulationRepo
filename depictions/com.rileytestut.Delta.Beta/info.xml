@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Emulator made by Riley Testut</shortDescription>
+	<shortDescription>Emulator made by Riley Testut. See this package in Cydia for full description instead of Sileo.</shortDescription>
 	<descriptionlist>
 		<description>Supports NES, SNES, N64, GBC, GBA, DS, DSi, Genesis (Beta) games!</description>
 		<description>DS and DSi games require BIOS files unless you use DeSmuME (Legacy) core.</description>
