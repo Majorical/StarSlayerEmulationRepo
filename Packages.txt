@@ -30,10 +30,10 @@ Package: com.rileytestut.GBA4iOS
 Version. 2.1
 Section: Games
 Maintainer: StarSlayerEmulation
-Depends: firmware (>12.2)
+Depends: firmware (>7.0)
 Conflicts:
 Architecture: iphoneos-arm
-Filename: /debs/com.rileytestut.GBA4iOS_2.1_iphoneos-arm.deb
+Filename: ./debs/com.rileytestut.GBA4iOS_2.1_iphoneos-arm.deb
 Size: 6969016
 MD5Sum: 6c1e9dc89e7aed0688d8489f17631321
 Description: Supports GBA, GBC, GB Games! Dropbox sync does not work with this version.
